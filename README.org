@@ -1,0 +1,33 @@
+#+AUTHOR: Matt Laine
+* Desired End-State
+** Easily Navigable
+*** Searchable by Subject
+*** Searchable by Level (Primary/Intermediate/Secondary/Post-Secondary)
+*** Searchable by Keyword
+*** Searchable by whether resource is a Learning Resource, a Testing Resource, or Both
+** Easily Composible
+*** Users can make custom courses of study
+*** Users can make cross-references by linking resources
+**** Different kinds of cross-references exist depending upon the relationship of resources to one-another.
+For example: Two resources can be complementary to one-another; a resource can supplement another resource/a resource can be supplemented by another resource.
+** Competently Curated
+*** Premade Courses of Study
+*** Premade Cross-References
+*** Pick-And-Choose K-12 Education (and beyond?)
+*** Compliant with educational requirements of different localities
+** Open Source
+*** Everyone can see the source code of the site and all its content.
+*** Anyone can propose changes to the site.
+**** There is a process in place for submission of proposed changes
+**** Curators can see and approve or decline proposed changes to the site.
+** Different Media
+*** App?
+*** Printed Checklist of Curriculum Materials
+**** Custom
+**** Premade
+* Questions
+** How do we fill the content in?
+** What have I put there that doesn't belong?
+** What haven't I put there that does belong?
+* Content
+?????
